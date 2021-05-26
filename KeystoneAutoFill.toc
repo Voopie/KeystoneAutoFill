@@ -1,0 +1,8 @@
+## Interface: 90005
+## Author: Voopie
+## Title: Keystone AutoFill
+## Notes: Automatically fills in the information from your keystone when you create a group
+## Version: 1.0
+## SavedVariables: KeystoneAutoFillDB
+
+KeystoneAutoFill.lua
