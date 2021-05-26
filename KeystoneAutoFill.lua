@@ -1,4 +1,3 @@
-
 local KeystoneButton, ToggleButton;
 
 local mapIdToActivity = {
