@@ -1,7 +1,5 @@
 ## Keystone AutoFill
 
----
-
 ### ***Features:***
 - Automatically fills in the information from your keystone when you create a group (or with click on button)
 
