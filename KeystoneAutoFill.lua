@@ -2,13 +2,13 @@ local KeystoneButton, ToggleButton;
 
 local mapIdToActivity = {
     [375] = 703, -- MISTS
-    [376] = 715, -- NW
+    [376] = 713, -- NW
     [377] = 695, -- DOS
     [378] = 699, -- HOA
     [379] = 691, -- PF
-    [380] = 707, -- SD
-    [381] = 711, -- SOA
-    [382] = 719, -- TOP
+    [380] = 705, -- SD
+    [381] = 709, -- SOA
+    [382] = 717, -- TOP
 };
 
 local keystoneLink = '|cffa335ee|Hkeystone:%s:%s:%s:%s:%s:%s:%s|h' .. _G.CHALLENGE_MODE_KEYSTONE_HYPERLINK .. '|h|r';
