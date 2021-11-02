@@ -1,8 +1,8 @@
-## Interface: 90100
+## Interface: 90105
 ## Author: Voopie
 ## Title: Keystone AutoFill
 ## Notes: Automatically fills in the information from your keystone when you create a group
-## Version: 1.2
+## Version: 1.3
 ## SavedVariables: KeystoneAutoFillDB
 
 KeystoneAutoFill.lua
